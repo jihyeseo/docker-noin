@@ -1,5 +1,6 @@
 site_name: 독거노인
 docs_dir: docker-noin.wiki
+site_url: https://jihyeseo.github.io/docker-noin/
 theme:
   name: 'material'
   language: 'kr'
@@ -7,3 +8,4 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/jihyeseo/docker-noin/wiki'
+  disqus: 'docker-noin'
