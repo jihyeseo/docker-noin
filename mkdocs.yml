@@ -1,0 +1,9 @@
+site_name: 독거노인
+docs_dir: docker-noin.wiki
+theme:
+  name: 'material'
+  language: 'kr'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/jihyeseo/docker-noin/wiki'
